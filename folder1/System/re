@@ -1,0 +1,5 @@
+LocalProfile.setName "Default"
+LocalProfile.setNick "Default"
+LocalProfile.setGamespyNick ""
+LocalProfile.setTotalPlayedTime 0
+LocalProfile.setNumTimesLoggedIn 0
